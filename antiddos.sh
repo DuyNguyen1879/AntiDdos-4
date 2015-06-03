@@ -1,6 +1,6 @@
 
 #!/bin/bash
-############### Kill DDOS ##############
+############### Anti DDOS ##############
 iptables_log = "/ data / logs / iptables_conf.log"
 Path ### Iptables configuration export and can be freely modified ###
 ########################################
